@@ -1,0 +1,1805 @@
+{
+    "poland": {
+        "06.07": [
+            {
+                "cost": "4 793 Br",
+                "travel_time": "2д 23ч 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:55",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "12 577 Br",
+                "travel_time": "19ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "12:15",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "7.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "4 218 Br",
+                "travel_time": "1д 23ч 10м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:45",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:55",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 246 Br",
+                "travel_time": "16ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "08:45",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "3 063 Br",
+                "travel_time": "2д 11ч 35м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "23:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:35",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 174 Br",
+                "travel_time": "10ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "23:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "08:30",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "4 197 Br",
+                "travel_time": "2д 15ч 30м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "07:40",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 203 Br",
+                "travel_time": "16ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "08:45",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "cost": "4 501 Br",
+                "travel_time": "2д 3ч 10м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:55",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 588 Br",
+                "travel_time": "16ч 40м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:35",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "3 818 Br",
+                "travel_time": "2д 23ч 50м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "20:00",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 323 Br",
+                "travel_time": "22ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "11:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "08:45",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "3 718 Br",
+                "travel_time": "2д 15ч",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "20:00",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "6 789 Br",
+                "travel_time": "19ч 20м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "12:15",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "3 454 Br",
+                "travel_time": "16ч 15м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "23:05",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "14:20",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 153 Br",
+                "travel_time": "2д 2ч 30м",
+                "ticket_type": "Обычный билет",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "07:30",
+                    "arrival_city": "Варшава",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307WAW1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=4705&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    },
+    "latvia": {
+        "06.07": [
+            {
+                "cost": "8 634 Br",
+                "travel_time": "2д 23ч 05м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "17:15",
+                    "arrival_city": "Рига",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "9 865 Br",
+                "travel_time": "1д 15ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "12:40",
+                    "arrival_city": "Рига",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "4 545 Br",
+                "travel_time": "2д 19ч 55м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:05",
+                    "arrival_city": "Рига",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 401 Br",
+                "travel_time": "19ч 55м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:05",
+                    "arrival_city": "Рига",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "5 514 Br",
+                "travel_time": "2д 18ч 10м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "12:20",
+                    "arrival_city": "Рига",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "8 971 Br",
+                "travel_time": "2д 40м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "21:50",
+                    "arrival_city": "Рига",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "3 818 Br",
+                "travel_time": "2д 20ч 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "17:55",
+                    "arrival_city": "Рига",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 627 Br",
+                "travel_time": "1д 2ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:45",
+                    "arrival_city": "Рига",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "cost": "4 793 Br",
+                "travel_time": "1д 23ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "12:20",
+                    "arrival_city": "Рига",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 497 Br",
+                "travel_time": "18ч",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "11:55",
+                    "arrival_city": "Рига",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "5 449 Br",
+                "travel_time": "2д 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "17:55",
+                    "arrival_city": "Рига",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "6 485 Br",
+                "travel_time": "23ч 45м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "17:55",
+                    "arrival_city": "Рига",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "4 877 Br",
+                "travel_time": "2д 19ч 55м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:05",
+                    "arrival_city": "Рига",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 229 Br",
+                "travel_time": "18ч",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "11:55",
+                    "arrival_city": "Рига",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "4 760 Br",
+                "travel_time": "2д 3ч 10м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "21:20",
+                    "arrival_city": "Рига",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 559 Br",
+                "travel_time": "1д 2ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:40",
+                    "arrival_city": "Рига",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307RIX1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1429&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    },
+    "thailand": {
+        "06.07": [
+            {
+                "cost": "12 584 Br",
+                "travel_time": "2д 11ч 05м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:15",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "13 285 Br",
+                "travel_time": "2д 1ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "12 415 Br",
+                "travel_time": "1д 23ч 15м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:15",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "12 990 Br",
+                "travel_time": "1д 14ч 55м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "07:50",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "4 264 Br",
+                "travel_time": "2д 6ч 15м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "23:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:15",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 941 Br",
+                "travel_time": "1д 10ч 05м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "23:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:05",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "3 465 Br",
+                "travel_time": "2д 16ч 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 984 Br",
+                "travel_time": "1д 7ч 50м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "05:35",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "error": "Билетов нет"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "3 236 Br",
+                "travel_time": "2д 1ч 35м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 031 Br",
+                "travel_time": "1д 11ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "11:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "3 371 Br",
+                "travel_time": "1д 16ч 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 663 Br",
+                "travel_time": "1д 9ч 50м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "3 521 Br",
+                "travel_time": "1д 20ч 10м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:05",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 689 Br",
+                "travel_time": "1д 9ч 50м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "02:45",
+                    "arrival_city": "Бангкок",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307BKK1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=2820&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    },
+    "lithuania": {
+        "06.07": [
+            {
+                "cost": "4 568 Br",
+                "travel_time": "2д 1ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "10 945 Br",
+                "travel_time": "1д 2ч 45м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:55",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "7.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "4 333 Br",
+                "travel_time": "1д 1ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 333 Br",
+                "travel_time": "1д 7ч 25м",
+                "ticket_type": "Обычный билет",
+                "departure_info": {
+                    "departure_time": "11:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "5 408 Br",
+                "travel_time": "2д 20ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "14:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "6 808 Br",
+                "travel_time": "22ч 25м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "4 545 Br",
+                "travel_time": "2д 21ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "6 135 Br",
+                "travel_time": "22ч 25м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "cost": "4 844 Br",
+                "travel_time": "2д 6ч 05м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:00",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 220 Br",
+                "travel_time": "1д 1ч 25м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "19:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "3 898 Br",
+                "travel_time": "2д 21ч 25м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 212 Br",
+                "travel_time": "1д 1ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "10:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "11:40",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "3 898 Br",
+                "travel_time": "2д 12ч 35м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:35",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 704 Br",
+                "travel_time": "17ч 45м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "11:40",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "4 398 Br",
+                "travel_time": "1д 19ч 05м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "16:15",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "15.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "7 051 Br",
+                "travel_time": "17ч 45м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:55",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "11:40",
+                    "arrival_city": "Вильнюс",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307VNO1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_value=1624&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    },
+    "norway": {
+        "06.07": [
+            {
+                "cost": "3 726 Br",
+                "travel_time": "2д 21ч 30м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 494 Br",
+                "travel_time": "1д 17ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "3 726 Br",
+                "travel_time": "1д 16ч 55м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:45",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 700 Br",
+                "travel_time": "20ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "3 672 Br",
+                "travel_time": "2д 4ч",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "09:00",
+                    "arrival_city": "Осло",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 007 Br",
+                "travel_time": "20ч 55м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "23:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:55",
+                    "arrival_city": "Осло",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "2 866 Br",
+                "travel_time": "2д 20ч",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:40",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "07:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 815 Br",
+                "travel_time": "18ч 15м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:25",
+                    "arrival_city": "Осло",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "cost": "3 755 Br",
+                "travel_time": "2д 12ч",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:55",
+                    "arrival_city": "Осло",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 969 Br",
+                "travel_time": "1д 1ч",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "18:10",
+                    "arrival_city": "Осло",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "3 344 Br",
+                "travel_time": "1д 21ч 30м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 358 Br",
+                "travel_time": "20ч 30м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "3 137 Br",
+                "travel_time": "2д 2ч 45м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "07:45",
+                    "arrival_city": "Осло",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 489 Br",
+                "travel_time": "20ч 55м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "2 681 Br",
+                "travel_time": "2д 9ч 35м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "23:05",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "07:40",
+                    "arrival_city": "Осло",
+                    "arrival_date": "16.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 072 Br",
+                "travel_time": "1д 2ч 10м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "14:05",
+                    "arrival_city": "Осло",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307OSL1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    },
+    "spain": {
+        "06.07": [
+            {
+                "cost": "3 456 Br",
+                "travel_time": "2д 17ч 20м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:05",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 885 Br",
+                "travel_time": "1д 17ч 40м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "21:10",
+                    "departure_city": "Минск",
+                    "departure_date": "6.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:50",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0607MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "07.07": [
+            {
+                "cost": "3 116 Br",
+                "travel_time": "1д 13ч 20м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "21:45",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:05",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 266 Br",
+                "travel_time": "18ч 20м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "7.07.22",
+                    "departure_day": "чт"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:30",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "8.07.22",
+                    "arrival_day": "пт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0707MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "08.07": [
+            {
+                "cost": "3 116 Br",
+                "travel_time": "1д 5ч 05м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:05",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 864 Br",
+                "travel_time": "17ч 55м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:10",
+                    "departure_city": "Минск",
+                    "departure_date": "8.07.22",
+                    "departure_day": "пт"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:05",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "9.07.22",
+                    "arrival_day": "сб"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0807MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "09.07": [
+            {
+                "cost": "3 408 Br",
+                "travel_time": "2д 8ч 50м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:50",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 915 Br",
+                "travel_time": "20ч 50м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "18:10",
+                    "departure_city": "Минск",
+                    "departure_date": "9.07.22",
+                    "departure_day": "сб"
+                },
+                "arrival_info": {
+                    "arrival_time": "14:00",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "10.07.22",
+                    "arrival_day": "вс"
+                },
+                "url": "https://www.aviasales.by/search/MSQ0907MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "10.07": [
+            {
+                "cost": "3 532 Br",
+                "travel_time": "2д 1ч 15м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:10",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "5 144 Br",
+                "travel_time": "22ч 35м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "10.07.22",
+                    "departure_day": "вс"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:30",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "11.07.22",
+                    "arrival_day": "пн"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1007MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "11.07": [
+            {
+                "cost": "3 633 Br",
+                "travel_time": "1д 19ч 35м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "00:35",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "4 746 Br",
+                "travel_time": "24ч 20м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "11:10",
+                    "departure_city": "Минск",
+                    "departure_date": "11.07.22",
+                    "departure_day": "пн"
+                },
+                "arrival_info": {
+                    "arrival_time": "10:30",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "12.07.22",
+                    "arrival_day": "вт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1107MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "12.07": [
+            {
+                "cost": "3 028 Br",
+                "travel_time": "1д 18ч",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "06:00",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:00",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 859 Br",
+                "travel_time": "20ч 25м",
+                "ticket_type": "Самый быстрый",
+                "departure_info": {
+                    "departure_time": "17:45",
+                    "departure_city": "Минск",
+                    "departure_date": "12.07.22",
+                    "departure_day": "вт"
+                },
+                "arrival_info": {
+                    "arrival_time": "13:10",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "13.07.22",
+                    "arrival_day": "ср"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1207MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ],
+        "13.07": [
+            {
+                "cost": "3 076 Br",
+                "travel_time": "1д 11ч 40м",
+                "ticket_type": "Самый дешёвый",
+                "departure_info": {
+                    "departure_time": "12:55",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:35",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            },
+            {
+                "cost": "3 076 Br",
+                "travel_time": "1д 14ч 25м",
+                "ticket_type": "Обычный билет",
+                "departure_info": {
+                    "departure_time": "10:10",
+                    "departure_city": "Минск",
+                    "departure_date": "13.07.22",
+                    "departure_day": "ср"
+                },
+                "arrival_info": {
+                    "arrival_time": "23:35",
+                    "arrival_city": "Мадрид",
+                    "arrival_date": "14.07.22",
+                    "arrival_day": "чт"
+                },
+                "url": "https://www.aviasales.by/search/MSQ1307MAD1?utm_adgroup_id=127673552544&utm_campaign=by_minsk_desktop_search_brand_new_users&utm_campaign_id=12740185866&utm_content_id=570631537394&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022&request_source=search_form&expected_price_currency=byn&expected_price_source=calendar&payment_method=all"
+            }
+        ]
+    }
+}
